@@ -1,0 +1,1 @@
+This is my first actual Odin project combining everything I've learned about terminal commands, git, and actual code.
