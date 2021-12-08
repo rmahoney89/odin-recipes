@@ -9,3 +9,9 @@ img {
 h1, h2 {
     text-align: center;
 }
+
+body {
+    background-color: ivory;
+    margin-left: 300px;
+    margin-right: 300px;
+}

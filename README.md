@@ -1,1 +1,2 @@
 This is my first actual Odin project combining everything I've learned about terminal commands, git, and actual code.
+The HTML and CSS were the easy parts.  Remembering terminal commands and git useage after a couplel months away was the challenge.  I still need more practice with it.
